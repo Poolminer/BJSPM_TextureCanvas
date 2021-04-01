@@ -1,0 +1,15 @@
+{
+  "name": "TextureCanvas",
+  "version": "1.0.0",
+  "sid": "gijs/TextureCanvas@1.0.0",
+  "description": "Texture for drawing other textures onto",
+  "keywords": [
+    "texture",
+    "canvas",
+    "texturecanvas",
+    "draw"
+  ],
+  "license": "Apache-2.0",
+  "username": "gijs",
+  "dependencies": []
+}

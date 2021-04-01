@@ -1,0 +1,58 @@
+{
+  "368ada4266a62c21d62c2b2533afa0a3": [
+    "bjspm/files.json"
+  ],
+  "29f0a7470c017e3739fe89381314fc3a": [
+    "bjspm/index.d.ts"
+  ],
+  "ad752cb778b771eba4b9febe1e3257e8": [
+    "bjspm/index.js"
+  ],
+  "4c0ebec8ed2bd4940f75b6ca99b837f3": [
+    "bjspm/index.ts"
+  ],
+  "ce37338ca3a9c2b159db669f66fb23aa": [
+    "bjspm/package.json"
+  ],
+  "46720c1ac2fafd36d54a5731041004a8": [
+    "bjspm/preview.png"
+  ],
+  "23d5a4434390c58584af077a59226fb5": [
+    "bjspm/readme.md"
+  ],
+  "77cda1a64bdbbab2a2dba7dcda9364aa": [
+    "documentation.md"
+  ],
+  "26336bb805870a534f4aa5b568036492": [
+    "images/brush.png"
+  ],
+  "aa51b97a058cead1d055bf24c7850335": [
+    "index.d.ts",
+    "index.js",
+    "index.ts"
+  ],
+  "d229da563da18fe5d58cd95a6467d584": [
+    "LICENSE"
+  ],
+  "a69a2524914df415e5d21244e6a45ce2": [
+    "readme.md"
+  ],
+  "5c7f99e3d4eaae821996a487acc6a5e2": [
+    "src/shaders.d.ts"
+  ],
+  "0e4e15bc7938cca6c9afe39c369ec81d": [
+    "src/shaders.js"
+  ],
+  "ac71f6437908d1db320b8f50c9a906e2": [
+    "src/shaders.ts"
+  ],
+  "addff5e716962f82cbab741162d763ee": [
+    "src/textureCanvas.d.ts"
+  ],
+  "1c008af5408f5f5d8ca428de3570a4b0": [
+    "src/textureCanvas.js"
+  ],
+  "21299fad2ce9be45931f1d7d398d7016": [
+    "src/textureCanvas.ts"
+  ]
+}
